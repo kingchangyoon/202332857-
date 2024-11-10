@@ -1,3 +1,5 @@
+import sys
+
 number = int(input("Enter a number: "))
 
 for i in range(1, number+1):  # 1부터 number까지 반복
